@@ -56,3 +56,9 @@ HappyBasket/
 │── connectingjava/            # Extra Java files (if any)
 │
 │── README.md                  # Project documentation
+## How to Run
+1. Import project in VS Code / IDE
+2. Set up MySQL database using `HappyBasket DB.session.sql`
+3. Update `ConnectDB.java` with your DB credentials
+4. Deploy on Apache Tomcat
+5. Open Home.html in browser
